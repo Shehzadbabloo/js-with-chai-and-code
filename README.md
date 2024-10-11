@@ -1,2 +1,2 @@
 # js-with-Babloo
-js-chai&amp;code
+js-babloo;code
